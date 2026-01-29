@@ -1,0 +1,16 @@
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.csproj.AssemblyReference.cache
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.AssemblyInfoInputs.cache
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.AssemblyInfo.cs
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.csproj.CoreCompileInputs.cache
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.sourcelink.json
+D:\Repos\keon-systems\src\Keon.Sdk\bin\Release\net10.0\Keon.Sdk.deps.json
+D:\Repos\keon-systems\src\Keon.Sdk\bin\Release\net10.0\Keon.Sdk.dll
+D:\Repos\keon-systems\src\Keon.Sdk\bin\Release\net10.0\Keon.Sdk.pdb
+D:\Repos\keon-systems\src\Keon.Sdk\bin\Release\net10.0\Keon.Contracts.dll
+D:\Repos\keon-systems\src\Keon.Sdk\bin\Release\net10.0\Keon.Contracts.pdb
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.csproj.Up2Date
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.dll
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\refint\Keon.Sdk.dll
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\Keon.Sdk.pdb
+D:\Repos\keon-systems\src\Keon.Sdk\obj\Release\net10.0\ref\Keon.Sdk.dll
