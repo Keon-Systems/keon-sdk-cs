@@ -1,3 +1,15 @@
+# Keon C# SDK
+
+> *Part of the [Keon Governance Platform](https://github.com/Keon-Systems).*
+> *Documentation: [keon-docs](https://github.com/Keon-Systems/keon-docs)*
+> *Website: [keon.systems](https://keon.systems)*
+
+---
+
+> **Powered by [OMEGA](https://github.com/omega-brands). Governed by [Keon](https://github.com/Keon-Systems).**
+
+---
+
 # What This Repository Is
 
 This repository contains the public SDK and contracts for **Keon**.
